@@ -1,0 +1,9 @@
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\bin\Debug\Instagram Project.exe.config
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\bin\Debug\Instagram Project.exe
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\bin\Debug\Instagram Project.pdb
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\obj\Debug\Instagram Project.csprojResolveAssemblyReference.cache
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\obj\Debug\Instagram_Project.Form1.resources
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\obj\Debug\Instagram_Project.Properties.Resources.resources
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\obj\Debug\Instagram Project.csproj.GenerateResource.Cache
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\obj\Debug\Instagram Project.exe
+c:\users\elias_000\documents\visual studio 2015\Projects\Instagram Project\Instagram Project\obj\Debug\Instagram Project.pdb
